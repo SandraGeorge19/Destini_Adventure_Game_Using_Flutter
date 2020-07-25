@@ -1,16 +1,14 @@
-# destini_flutter
+# Destini - An Adventure Game Using Flutter
 
-A new Flutter application.
+**This is an Adventure Game based on your Own Choice from the Story Choices.**
 
-## Getting Started
+- Show Part 1 from the App:
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![49coi9](https://user-images.githubusercontent.com/50073317/88447532-8c8ea000-ce34-11ea-88bd-e6ccc33d28aa.gif)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Show Part 2 from the App:
+
+
+![49cok2](https://user-images.githubusercontent.com/50073317/88447547-b0ea7c80-ce34-11ea-9964-ae4145f9d52b.gif)
